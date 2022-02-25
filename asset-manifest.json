@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/chorestaurant/static/css/main.0036effd.chunk.css",
+    "main.js": "/chorestaurant/static/js/main.424636b8.chunk.js",
+    "main.js.map": "/chorestaurant/static/js/main.424636b8.chunk.js.map",
+    "runtime-main.js": "/chorestaurant/static/js/runtime-main.aa71e72d.js",
+    "runtime-main.js.map": "/chorestaurant/static/js/runtime-main.aa71e72d.js.map",
+    "static/css/2.44c749e0.chunk.css": "/chorestaurant/static/css/2.44c749e0.chunk.css",
+    "static/js/2.a6372010.chunk.js": "/chorestaurant/static/js/2.a6372010.chunk.js",
+    "static/js/2.a6372010.chunk.js.map": "/chorestaurant/static/js/2.a6372010.chunk.js.map",
+    "static/js/3.dd6ac34b.chunk.js": "/chorestaurant/static/js/3.dd6ac34b.chunk.js",
+    "static/js/3.dd6ac34b.chunk.js.map": "/chorestaurant/static/js/3.dd6ac34b.chunk.js.map",
+    "index.html": "/chorestaurant/index.html",
+    "static/css/2.44c749e0.chunk.css.map": "/chorestaurant/static/css/2.44c749e0.chunk.css.map",
+    "static/css/main.0036effd.chunk.css.map": "/chorestaurant/static/css/main.0036effd.chunk.css.map",
+    "static/js/2.a6372010.chunk.js.LICENSE.txt": "/chorestaurant/static/js/2.a6372010.chunk.js.LICENSE.txt",
+    "static/media/Menu_cho.99214feb.pdf": "/chorestaurant/static/media/Menu_cho.99214feb.pdf",
+    "static/media/cho-rest.0963ccb1.jpg": "/chorestaurant/static/media/cho-rest.0963ccb1.jpg",
+    "static/media/cho_written2.b8ef740b.png": "/chorestaurant/static/media/cho_written2.b8ef740b.png",
+    "static/media/index.css": "/chorestaurant/static/media/wall.6d047676.jpg",
+    "static/media/gyoza.e4b59411.jpg": "/chorestaurant/static/media/gyoza.e4b59411.jpg",
+    "static/media/kkobe_meat.02d55b00.jpg": "/chorestaurant/static/media/kkobe_meat.02d55b00.jpg",
+    "static/media/mochi_sakura.5e30da55.jpg": "/chorestaurant/static/media/mochi_sakura.5e30da55.jpg",
+    "static/media/omurice.6c8c80c9.jpg": "/chorestaurant/static/media/omurice.6c8c80c9.jpg",
+    "static/media/qrcode_cho.711a3226.png": "/chorestaurant/static/media/qrcode_cho.711a3226.png",
+    "static/media/raimen.f4d70cfd.jpg": "/chorestaurant/static/media/raimen.f4d70cfd.jpg",
+    "static/media/sashimi.b4831c26.jpg": "/chorestaurant/static/media/sashimi.b4831c26.jpg",
+    "static/media/tonkatsucurry.6ec04d09.jpg": "/chorestaurant/static/media/tonkatsucurry.6ec04d09.jpg",
+    "static/media/yakisoba.003792ff.jpg": "/chorestaurant/static/media/yakisoba.003792ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa71e72d.js",
+    "static/css/2.44c749e0.chunk.css",
+    "static/js/2.a6372010.chunk.js",
+    "static/css/main.0036effd.chunk.css",
+    "static/js/main.424636b8.chunk.js"
+  ]
+}
